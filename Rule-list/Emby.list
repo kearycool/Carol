@@ -8,7 +8,7 @@
 # PROCESS-NAME: 1
 # TOTAL: 52
 DOMAIN-SUFFIX,odysseyplus.site
-DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,emby.wtf
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
 DOMAIN,notnetflix.cos.cat
@@ -57,6 +57,5 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,xmsl.org
-DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 PROCESS-NAME,com.mb.android
