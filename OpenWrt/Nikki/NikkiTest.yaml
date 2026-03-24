@@ -20,15 +20,6 @@ proxy-providers:
 
 # 节点信息
 proxies:
-  - name: "香港落地"
-    dialer-proxy: 🇭🇰 香港节点
-    type: ss
-    server: "23.175.201.164"
-    port: 80
-    cipher: "2022-blake3-aes-128-gcm"
-    password: "UETm2mAIRiCaVJuIe1t0cA=="
-    udp: true
-
   - {name: 直连, type: direct}
 
 # 全局配置 
