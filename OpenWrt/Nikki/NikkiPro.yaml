@@ -4,7 +4,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "http://192.168.5.1:3001/CKg2abstVnOeRpm1aB4G/download/collection/passwall?target=ClashMeta"
+    url: "http://192.168.5.1"
     type: http
     interval: 86400
     health-check:
