@@ -99,7 +99,7 @@ listeners:
     listen: "::"
     port: 25338
     udp: true
-    password: "wang554GANG?"
+    password: "loveandpeace"
     cipher: "aes-256-gcm"
  
 # 出站策略，根据自己情况调整每个策略里分组排序，增删都可以，比如把美国自动放到第一个，比如删除香港故转，注意别漏掉表情逗号等。
