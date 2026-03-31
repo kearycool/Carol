@@ -8,6 +8,7 @@
 # PROCESS-NAME: 1
 # TOTAL: 52
 payload:
+  - DOMAIN-SUFFIX,lilyemby.com
   - DOMAIN,emby.enjoyit.eu.org
   - DOMAIN,emby.lcloud.wiki
   - DOMAIN,notnetflix.cos.cat
